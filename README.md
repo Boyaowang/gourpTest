@@ -1,2 +1,2 @@
 # gourpTest
-Testfor ]Groupuse
+Testfor Groupuse
