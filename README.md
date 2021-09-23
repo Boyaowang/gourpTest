@@ -1,2 +1,2 @@
 # gourpTest
-Test for Groupuse
+Test for Group use
